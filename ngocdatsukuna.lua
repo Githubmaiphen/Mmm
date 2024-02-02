@@ -1,6 +1,3 @@
-local linkvertise = 'https://shorten.tv/yl_Ph'
-local discordLink = 'https://discord.gg/KAjqmrqSC6'
-local uniqueKey = game:HttpGet'https://pastebin.com/raw/fFHiwNQT';
 
 local thescript = [[
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Githubmaiphen/Conmemayss/main/script%201.lua"))()
